@@ -1,0 +1,13 @@
+build/
+*.log
+*.out
+node_modules
+interfacer/target
+interfacer/vendor
+interfacer/dist
+interfacer/interfacer
+interfacer/browsh
+interfacer/webextension.go
+webext/node_modules
+webext/dist
+
