@@ -1,10 +1,9 @@
-# Browsh [![Build Status](https://travis-ci.org/tombh/texttop.svg?branch=master)](https://travis-ci.org/tombh/texttop)
-
-**A fully interactive, realtime and modern browser rendered to TTY**
+# Squirrel-Navigator
+**A private and secure text based browser. With Pictures**
 
 or Firefox in your terminal 😲
 
-// Gifs go here
+Squirrel-Navigator is based on [Browsh](https://github.com/tombh/texttop/issues/17).
 
 ## Why?
 
