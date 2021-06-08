@@ -17,9 +17,9 @@ RUN ./setup_firefox.sh
 RUN rm ./setup_firefox.sh && rm .travis.yml
 
 # Setup Browsh
-ADD ./interfacer/contrib/setup_browsh.sh .
-RUN ./setup_browsh.sh
-RUN rm ./setup_browsh.sh && rm manifest.json
+ADD ./interfacer/contrib/setup_squirrelnavigator.sh .
+RUN ./setup_squirrelnavigator.sh
+RUN rm ./setup_squirrelnavigator.sh && rm manifest.json
 
-CMD ["/home/user/browsh"]
+CMD ["/home/user/squirrelnavigator"]
 
